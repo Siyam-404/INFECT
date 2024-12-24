@@ -1,18 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VIRUS%20INFECT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BASH%20TOOLS%20FOR%20MAKE%20VIRUS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
-
-> Infect Any Android Device With Virus From Link In Termux
-
-</p>
-   <p align="center">
-      <a href="https://github.com/U7P4L-IN/INFECT/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/INFECT?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/INFECT/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/INFECT?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/INFECT/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
-   </p>
    
 ## Language</br>
 
@@ -35,7 +20,7 @@
 ### Kali Linux / Ubuntu / Parrot OS >
 ```python
 sudo apt-get update && apt-get install git
-git clone https://github.com/U7P4L-IN/INFECT.git
+git clone https://github.com/Siyam-404/INFECT.git
 cd INFECT
 ls
 sudo bash INFECT.sh
@@ -45,7 +30,7 @@ sudo bash INFECT.sh
 ```python
 apt update && apt upgrade -y
 pkg install git
-git clone https://github.com/U7P4L-IN/INFECT.git
+git clone https://github.com/Siyam-404/INFECT.git
 cd INFECT
 bash INFECT.sh
 ```
